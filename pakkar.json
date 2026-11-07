@@ -1,0 +1,70 @@
+{
+  "pakkar": [
+    {
+      "fagkode": "BUA3103",
+      "filnamn": "bua3103-0.16-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Barne- og ungdomsarbeiderfaget (BUA3103)",
+        "nn": "Barne- og ungdomsarbeidarfaget (BUA3103)"
+      },
+      "versjon": "0.16",
+      "storleik": 22444546,
+      "sha256": "0e77c1a86469eea782f4a48459d58bf919edac8faa0931e1e150cf3cafa775cb"
+    },
+    {
+      "fagkode": "ROF3103",
+      "filnamn": "rof3103-1.2-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Eksamensveileder ROF3103 Renholdsoperatørfaget",
+        "nn": "Eksamensrettleiar ROF3103 Reinhaldsoperatørfaget"
+      },
+      "versjon": "1.2",
+      "storleik": 43269589,
+      "sha256": "72b13e46ab68b8314a727b56be6fceae6428000c928e1daaecc07436884ea2c9"
+    },
+    {
+      "fagkode": "KOK3103",
+      "filnamn": "kok3103-0.14-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Kokkfaget (KOK3103)",
+        "nn": "Kokkfaget (KOK3103)"
+      },
+      "versjon": "0.14",
+      "storleik": 21312130,
+      "sha256": "fee5d51ff4c65bd5e148072347b19bdc8e16a80b0ebd634e53435c09bd743175"
+    },
+    {
+      "fagkode": "TMF3103",
+      "filnamn": "tmf3103-0.17-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Tømrarfaget (TMF3103)",
+        "nn": "Tømrarfaget (TMF3103)"
+      },
+      "versjon": "0.17",
+      "storleik": 27560441,
+      "sha256": "e5d9b83992511e9586b1cb0176f86fffe746dcd5fd92abce6980f1c956e7360c"
+    },
+    {
+      "fagkode": "LOG3103",
+      "filnamn": "log3103-0.13-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Logistikkfaget (LOG3103)",
+        "nn": "Logistikkfaget (LOG3103)"
+      },
+      "versjon": "0.13",
+      "storleik": 28223719,
+      "sha256": "abb67c20c72f7794931c0e14b9c5482fcc46c1c330084daac2779babc38dd7fd"
+    },
+    {
+      "fagkode": "HEA3103",
+      "filnamn": "hea3103-1.6-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Helsearbeiderfaget (HEA3103)",
+        "nn": "Helsearbeiderfaget (HEA3103)"
+      },
+      "versjon": "1.6",
+      "storleik": 36014695,
+      "sha256": "c7fa0382ed866022d86ce3be1b277783696b134be2f8dab341736e886a71abfc"
+    }
+  ]
+}
