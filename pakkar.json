@@ -2,102 +2,102 @@
   "pakkar": [
     {
       "fagkode": "BUA3103",
-      "filnamn": "bua3103-0.18-signert-open-2026-11.fagpakke",
+      "filnamn": "bua3103-0.19-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Barne- og ungdomsarbeiderfaget (BUA3103)",
         "nn": "Barne- og ungdomsarbeidarfaget (BUA3103)"
       },
-      "versjon": "0.18",
-      "storleik": 22456586,
-      "sha256": "0150a6f20a3cc1ab441320ac4fe1d1cadd34f35c20b4bbd33f6c7e77e1569d94"
+      "versjon": "0.19",
+      "storleik": 22456196,
+      "sha256": "fb662f5ba06ed7717e52605d837f75302a3904c0f852606ad33a784e7c7f07c5"
     },
     {
       "fagkode": "ROF3103",
-      "filnamn": "rof3103-1.4-signert-open-2026-11.fagpakke",
+      "filnamn": "rof3103-1.5-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Eksamensveileder ROF3103 Renholdsoperatørfaget",
         "nn": "Eksamensrettleiar ROF3103 Reinhaldsoperatørfaget"
       },
-      "versjon": "1.4",
-      "storleik": 43274485,
-      "sha256": "ff6555c61bd3beed91af9e46169397f5f8a8643ba37ab0fcb1e07630320aabb7"
+      "versjon": "1.5",
+      "storleik": 43274295,
+      "sha256": "e51258e7b2084e0783f885e20cafacf5c13b22d85e597d0dd6d79f01b63bd371"
     },
     {
       "fagkode": "KOK3103",
-      "filnamn": "kok3103-0.18-signert-open-2026-11.fagpakke",
+      "filnamn": "kok3103-0.19-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Kokkfaget (KOK3103)",
         "nn": "Kokkfaget (KOK3103)"
       },
-      "versjon": "0.18",
-      "storleik": 21329117,
-      "sha256": "105041b5b9c98de595840c84b95ad0dc9cfa8c4ad423505a48695df3651a46c1"
+      "versjon": "0.19",
+      "storleik": 21328554,
+      "sha256": "a33851b471a1e05df6bd20b1f630ce68b4f2e328cdcb94089e84955e42ea2098"
     },
     {
       "fagkode": "TMF3103",
-      "filnamn": "tmf3103-0.20-signert-open-2026-11.fagpakke",
+      "filnamn": "tmf3103-0.21-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Tømrarfaget (TMF3103)",
         "nn": "Tømrarfaget (TMF3103)"
       },
-      "versjon": "0.20",
-      "storleik": 27567617,
-      "sha256": "ba019878cf86bb84c2fdd14ce87572e763e272e13a92803f413331f8cda88326"
+      "versjon": "0.21",
+      "storleik": 27567228,
+      "sha256": "cdb803462b78fdba6ba9cb98a4186383b64a34a1378c1f4215c1fa142767e5cb"
     },
     {
       "fagkode": "LOG3103",
-      "filnamn": "log3103-0.17-signert-open-2026-11.fagpakke",
+      "filnamn": "log3103-0.18-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Logistikkfaget (LOG3103)",
         "nn": "Logistikkfaget (LOG3103)"
       },
-      "versjon": "0.17",
-      "storleik": 28238284,
-      "sha256": "abfc48258add05ac9498901edb021775f608145bf208baa0ccd19ddab66716a6"
+      "versjon": "0.18",
+      "storleik": 28238144,
+      "sha256": "9d429682d6d7fa4dc97344306d8b803fec7dc58e0086f6eada8b72fd43ca9316"
     },
     {
       "fagkode": "HEA3103",
-      "filnamn": "hea3103-1.8-signert-open-2026-11.fagpakke",
+      "filnamn": "hea3103-1.9-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Helsearbeiderfaget (HEA3103)",
         "nn": "Helsearbeiderfaget (HEA3103)"
       },
-      "versjon": "1.8",
-      "storleik": 36039027,
-      "sha256": "3ba3e65f91d8652e2a6d3a4dc69462ddc037e713a269f00f5acaadc250e73fc2"
+      "versjon": "1.9",
+      "storleik": 36039036,
+      "sha256": "e2bd5c176a069c31819c35656d63ff03cc15bc1f13d49b1bfdabf0548eab2255"
     },
     {
       "fagkode": "KJP3103",
-      "filnamn": "kjp3103-0.14-signert-open-2026-11.fagpakke",
+      "filnamn": "kjp3103-0.15-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Kjemiprosessfaget (KJP3103)",
         "nn": "Kjemiprosessfaget (KJP3103)"
       },
-      "versjon": "0.14",
-      "storleik": 31643031,
-      "sha256": "00c27af6348b16a9cea9af488361eb9bdfb3e07c05e58ba09ea90fac698d78d8"
+      "versjon": "0.15",
+      "storleik": 31642786,
+      "sha256": "b1ecfb6a4bfd67e4e4c7c4f22813cbd7e95c112b99289c50f2bc1c16c89bac54"
     },
     {
       "fagkode": "SLG3103",
-      "filnamn": "slg3103-0.8-signert-open-2026-11.fagpakke",
+      "filnamn": "slg3103-0.9-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Salgsfaget (SLG3103)",
         "nn": "Salsfaget (SLG3103)"
       },
-      "versjon": "0.8",
-      "storleik": 28705923,
-      "sha256": "c0944d71f01191099fac33928f26393955a3a117d752f79fd6ee561a2469101d"
+      "versjon": "0.9",
+      "storleik": 28705751,
+      "sha256": "90ac2982c2d44b454b91178e616865fb4793e6996b08752b6b95111f3f249750"
     },
     {
       "fagkode": "IME3103",
-      "filnamn": "ime3103-1.0-signert-open-2026-11.fagpakke",
+      "filnamn": "ime3103-1.1-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Industrimekanikerfaget (IME3103)",
         "nn": "Industrimekanikarfaget (IME3103)"
       },
-      "versjon": "1.0",
-      "storleik": 29519392,
-      "sha256": "42c77a977125e8786c1da73a31aa7681113037c2e925855b79b599f2307761fb"
+      "versjon": "1.1",
+      "storleik": 29519404,
+      "sha256": "2da7d6a9e64c232d31cefad160590fbeac8723be9b4c09472de9c644f49784d9"
     }
   ]
 }
