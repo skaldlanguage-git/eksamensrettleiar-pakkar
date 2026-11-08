@@ -24,14 +24,14 @@
     },
     {
       "fagkode": "KOK3103",
-      "filnamn": "kok3103-0.14-signert-open-2026-11.fagpakke",
+      "filnamn": "kok3103-0.15-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Kokkfaget (KOK3103)",
         "nn": "Kokkfaget (KOK3103)"
       },
-      "versjon": "0.14",
-      "storleik": 21312130,
-      "sha256": "fee5d51ff4c65bd5e148072347b19bdc8e16a80b0ebd634e53435c09bd743175"
+      "versjon": "0.15",
+      "storleik": 21314664,
+      "sha256": "049cd0ecfb49c200285dca0d5fbd817415404cab65ef1d161b8c8e16346e0bea"
     },
     {
       "fagkode": "TMF3103",
