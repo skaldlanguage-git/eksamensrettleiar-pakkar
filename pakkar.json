@@ -2,14 +2,14 @@
   "pakkar": [
     {
       "fagkode": "BUA3103",
-      "filnamn": "bua3103-0.19-signert-open-2026-11.fagpakke",
+      "filnamn": "bua3103-0.20-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Barne- og ungdomsarbeiderfaget (BUA3103)",
         "nn": "Barne- og ungdomsarbeidarfaget (BUA3103)"
       },
-      "versjon": "0.19",
-      "storleik": 22456196,
-      "sha256": "fb662f5ba06ed7717e52605d837f75302a3904c0f852606ad33a784e7c7f07c5"
+      "versjon": "0.20",
+      "storleik": 22456272,
+      "sha256": "939398929c51a0c0b219c3b868551218ad77b1f331c72feac49f0eb6ada01800"
     },
     {
       "fagkode": "ROF3103",
@@ -24,25 +24,25 @@
     },
     {
       "fagkode": "KOK3103",
-      "filnamn": "kok3103-0.19-signert-open-2026-11.fagpakke",
+      "filnamn": "kok3103-0.20-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Kokkfaget (KOK3103)",
         "nn": "Kokkfaget (KOK3103)"
       },
-      "versjon": "0.19",
+      "versjon": "0.20",
       "storleik": 21328554,
-      "sha256": "a33851b471a1e05df6bd20b1f630ce68b4f2e328cdcb94089e84955e42ea2098"
+      "sha256": "475ca5452d228adc37134274e882aefcd8daffea18b78094d1cab53a547dd6bf"
     },
     {
       "fagkode": "TMF3103",
-      "filnamn": "tmf3103-0.21-signert-open-2026-11.fagpakke",
+      "filnamn": "tmf3103-0.22-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Tømrarfaget (TMF3103)",
         "nn": "Tømrarfaget (TMF3103)"
       },
-      "versjon": "0.21",
+      "versjon": "0.22",
       "storleik": 27567228,
-      "sha256": "cdb803462b78fdba6ba9cb98a4186383b64a34a1378c1f4215c1fa142767e5cb"
+      "sha256": "33eecd03a3de63799e0c3323902a0244611e16cf9d0fbc9d06315316c527feff"
     },
     {
       "fagkode": "LOG3103",
@@ -57,14 +57,14 @@
     },
     {
       "fagkode": "HEA3103",
-      "filnamn": "hea3103-1.9-signert-open-2026-11.fagpakke",
+      "filnamn": "hea3103-2.0-signert-open-2026-11.fagpakke",
       "namn": {
         "nb": "Helsearbeiderfaget (HEA3103)",
         "nn": "Helsearbeiderfaget (HEA3103)"
       },
-      "versjon": "1.9",
-      "storleik": 36039036,
-      "sha256": "e2bd5c176a069c31819c35656d63ff03cc15bc1f13d49b1bfdabf0548eab2255"
+      "versjon": "2.0",
+      "storleik": 36039112,
+      "sha256": "1dcbc13203defc45c4bcbaf2e68f4ed3400c3e1205b2c49335ae845f59c10949"
     },
     {
       "fagkode": "KJP3103",
