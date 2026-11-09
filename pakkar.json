@@ -98,6 +98,17 @@
       "versjon": "1.1",
       "storleik": 29519404,
       "sha256": "2da7d6a9e64c232d31cefad160590fbeac8723be9b4c09472de9c644f49784d9"
+    },
+    {
+      "fagkode": "PFD3103",
+      "filnamn": "pfd3103-0.6-signert-open-2026-11.fagpakke",
+      "namn": {
+        "nb": "Profileringsdesignfaget (PFD3103)",
+        "nn": "Profileringsdesignfaget (PFD3103)"
+      },
+      "versjon": "0.6",
+      "storleik": 25846857,
+      "sha256": "38b7329daca3a3de372a3339e1ef4d3a93da4356b0b7e27bd8b75b0257677b20"
     }
   ]
 }
